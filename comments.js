@@ -1,4 +1,4 @@
-// Create Web Server
+// Create web server
 // Create a web server that listens on port 3000 and serves the comments.json file. 
 // Use the fs module to read the comments.json file and respond with the contents of that file. 
 // If the comments.json file does not exist, respond with a 404 status code.
